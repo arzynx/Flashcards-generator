@@ -1,0 +1,7 @@
+[theme]
+# Streamlit's native selected-control colour: mint neon, never red.
+primaryColor = "#75f1da"
+backgroundColor = "#090d1b"
+secondaryBackgroundColor = "#0c1429"
+textColor = "#edf5ff"
+font = "sans serif"

@@ -1,0 +1,6 @@
+# Local credentials
+.streamlit/secrets.toml
+
+# Python build/runtime files
+__pycache__/
+*.py[cod]
